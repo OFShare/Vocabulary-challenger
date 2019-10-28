@@ -65,7 +65,7 @@
     - adj. very great in degree.
     - We are working under extreme pressure at the moment.
 22. **furnish**:
-    - v. to provide sth. with furniture; put furniture in (a plase)
+    - v. to provide sth. with furniture; put furniture in (a place)
     - a furnished flat
 23. **furniture**:
     - n. movable articles, e.g. tables, chairs, beds, etc. put into a house or an office to make it suitable for living or working in 
