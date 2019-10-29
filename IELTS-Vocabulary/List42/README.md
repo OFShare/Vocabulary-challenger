@@ -1,12 +1,11 @@
 1. **automatic**:
-- adj. working by itself without direct human control.
-  
-- My camera is fully automatic.
+   - adj. working by itself without direct human control.
+   - My camera is fully automatic.
 2. **available**:
-- adj. that can be used or obtained.
+   - adj. that can be used or obtained.
    - The new media make our cultural past available to the whole nation.
 3. **average**:
-- adj. found by calculating the result of adding several amounts together and dividing the total by the number of amounts.
+   - adj. found by calculating the result of adding several amounts together and dividing the total by the number of amounts.
    - Without the greenhouse effect, the earth's average temperature would be 33-35 degrees Celsius lower.
 4. **aware**:
    - adj. having knowledge or realization of sb./sth.
@@ -65,7 +64,7 @@
     - adj. very great in degree.
     - We are working under extreme pressure at the moment.
 22. **furnish**:
-    - v. to provide sth. with furniture; put furniture in (a plase)
+    - v. to provide sth. with furniture; put furniture in (a place)
     - a furnished flat
 23. **furniture**:
     - n. movable articles, e.g. tables, chairs, beds, etc. put into a house or an office to make it suitable for living or working in 
