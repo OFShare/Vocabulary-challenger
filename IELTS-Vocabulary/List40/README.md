@@ -145,7 +145,62 @@
 115. **patron**
 
      - n. person who gives money or other support to a person, cause , activity, etc.
-     - a wealthy patron of the arts
+     - a wealthy patron of the arts.
+
+116. **pause**
+
+     - n. temporary stop in action or speech
+     - It also reveals the power of the pauses and noises we use to play for time, convey emotion, doubt and irony.
+
+117. **reservation**
+
+     - n. reserved seat or accommodation, etc.; record of this
+     - make / hold reservations (in the name of T Hill)
+
+118. **reserve**
+
+     - v. to have or keep (a specified power); retain
+     - After an assessment you will be able to reserve a place on the next available course.
+
+119. **segment**
+
+     - n. part of sth. separated or marked off from the other parts; part of sth. that can be separated off  in the mind.
+     - She cleaned a small segment of the painting.
+
+120. **segregate**
+
+     - v. to put sb. / sth. in a place away from the rest; isolate
+     - segregate cholera patients
+
+121. **seize**
+
+     - v. to take hold of sth. suddenly and violently.
+     - Suddenly she seized my hand.
+
+122. **select**
+
+     - v. to choose sb. / sth., esp. as being the best or most suitable
+     - select a gift / candidate / wine
+
+123. **typical**
+
+     - adj. having the usual features or qualities of a particular group or thing.
+     - This advertisement is a typical example of their marketing strategy.
+
+124. **wholesome**
+
+     - adj. good for your health.
+     - The diet is a wholesome one; healthy foods such as salads, wholemeal bread and semi-skimmed milk are used.
+
+125. **wicked**
+
+     - adj. behaving in a way that is morally wrong.
+     - a wicked witch
+
+126. **widespread**
+
+     - adj. existing or happening in many places or situations, or among many people
+     - Whether the technology ever will gain widespread use is uncertain.
 
      
 
