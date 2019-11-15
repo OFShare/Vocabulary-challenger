@@ -74,3 +74,61 @@
 190. **grief**
      - n. deep or violent sorrow
      - driven almost insane by grief over his death.
+191. **gross**
+     - adj. clearly wrong and unacceptable
+     - California has developed a scheme to get these gross polluters off the streets.
+192. **intrigue**
+     - v. to rouse sb.'s interest or curiosity
+     - It solved a problem that had intrigued man for ages.
+193. **intrinsic**
+     - adj. (of a value or quality) belonging naturally; existing within, not coming from outside.
+     - views which seem to place an intrinsic value on non-human animal life
+194. **outlet**
+     - n. way out (for water, steam, etc.)
+     - an outlet for water
+195. **outline**
+     - v. to give a short general description of (sth.)
+     - At the Ottawa Conference in 1986, a charter was developed which outlined new directions for health promotion.
+196. **particular**
+     - adj. [only before noun] used to emphasize that you are referring to one individual person, thing or type of thing and not others.
+     - It is common for supporters of road networks to reject the models of cities with good public transport by arguing that such systems would not work in their particular city.
+     - n. (usu. pl.) a fact or detail especially one that is officially written down.
+197. **partner**
+     - n. person who takes part in an activity with another or others, esp. one of several owners of a business
+     - The income of your parents, spouse, partner or other relatives is not taken into account.
+198. **passion**
+     - n. strong feeling (e.g. of hate, love or anger)
+     - She argued with great passion.
+199. **request**
+     - n. act of asking for sth. in speech or writing, esp. politely
+     - Evening appointments are available on request.
+200. **require**
+     - v. to need sth.
+     - The job requires a college degree and a knowledge of computers.
+201. **requirement**
+     - n. thing depended on or needed
+     - Our latest model should meet your requirements exactly, i.e. be just what you want.
+202. **sculpture**
+     - n. art of making figures, objects, etc. by carving wood or stone, shaping clay, making metal casts, etc.
+     - the techniques of sculpture in stone.
+203. **seal**
+     - n. substance or device used to fill a gap, crack, etc. so that gas or fluid cannot enter or escape.
+     - a rubber seal in the lid of a jar
+204. **symbol**
+     - n. image, object, etc. that suggests or refers to sth. else; emblem
+     - The lion is the symbol of courage.
+205. **symbolize**
+     - v. to be a symbol of (sth.)
+     - In Europe, the colour white symbolizes purity but in Asia it is often the symbol of deep mourning.
+206. **sympathetic**
+     - adj. caring and feeling sorry about sb.'s problems
+     - He is such a sympathetic person.
+207. **tunnel**
+     - n. a passage that has been dug under the ground for cars, trains, etc. to go through
+     - The tunnels abandoned by the beetles provide excellent aeration and water channels for root systems.
+208. **tutor**
+     - n. (BrE) a teacher whose job is to pay special attention to the studies or health, etc. of a student or a group of students
+     - The tutors here at Bedford College are all very experienced in their field of teaching.
+209. **tutorial**
+     - n. a period of teaching in a university that involves of students and a tutor.
+     - Whereas previously lecturers were holding tutorials, their time is now spent marking hundreds of essays.
